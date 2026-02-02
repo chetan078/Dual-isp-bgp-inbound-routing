@@ -16,8 +16,8 @@ ISP2 should be backup.
 - No AS-path prepending is configured
 
 # Commands used
-show ip bgp
-show ip bgp summary
+- show ip bgp
+- show ip bgp summary
 
 # Command Output Analysis
 ISP1 sees AS-path: 65001
