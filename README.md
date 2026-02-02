@@ -10,8 +10,8 @@ ISP1 should be primary
 ISP2 should be backup.
 
 # Observations
-1 Customer is multihomed with ISP1 (AS100) and ISP2 (AS200)
-2 Customer AS is 65001
+- Customer is multihomed with ISP1 (AS100) and ISP2 (AS200)
+- Customer AS is 65001
 3 Prefix is advertised normally to both ISPs
 4 No AS-path prepending is configured
 
