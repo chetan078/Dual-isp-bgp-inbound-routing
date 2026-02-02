@@ -12,8 +12,8 @@ ISP2 should be backup.
 # Observations
 - Customer is multihomed with ISP1 (AS100) and ISP2 (AS200)
 - Customer AS is 65001
-3 Prefix is advertised normally to both ISPs
-4 No AS-path prepending is configured
+- Prefix is advertised normally to both ISPs
+- No AS-path prepending is configured
 
 # Commands used
 show ip bgp
